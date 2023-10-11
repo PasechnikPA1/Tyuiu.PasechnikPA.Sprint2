@@ -10,7 +10,7 @@ namespace Tyuiu.PasechnikPA.Sprint2.Task1.V11.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidGetLogicOperations()
         {
             DataService ds = new DataService();
             int a = 145;
