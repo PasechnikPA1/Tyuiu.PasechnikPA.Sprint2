@@ -26,7 +26,7 @@ namespace Tyuiu.PasechnikPA.Sprint2.Task0.V6
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Алгоритмы разветвляющейся струры                                  *");
             Console.WriteLine("* Задание #0                                                              *");
             Console.WriteLine("* Варинант #6                                                             *");
             Console.WriteLine("* Выполнил: Пасечник Павел Андреевич | АСОиУБ-23-2                        *");

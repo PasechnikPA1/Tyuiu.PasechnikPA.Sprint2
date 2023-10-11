@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tyuiu.PasechnikPA.Sprint2.Task1.V11.Lib\Tyuiu.PasechnikPA.Sprint2.Task1.V11.Lib.csproj">
+      <Project>{4ced12af-2461-4c6e-bb6b-60f68eedd69d}</Project>
+      <Name>Tyuiu.PasechnikPA.Sprint2.Task1.V11.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
