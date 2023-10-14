@@ -10,8 +10,15 @@ namespace Tyuiu.PasechnikPA.Sprint2.Task7.V13.Test
     public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void ValidCheckDotInShadedArea()
         {
+            DataService ds = new DataService();
+            double x = 1.5;
+            double y = 0.9;
+            bool res = ds.CheckDotInShadedArea(x, y);
+
+            bool wait = true;
+            Assert.AreEqual(wait, res);
         }
     }
 }
